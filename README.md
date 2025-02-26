@@ -35,7 +35,7 @@ This project highlights the effectiveness of distance-based classification for f
 /Users/lakshittyagi/Desktop/CSAI/MLPR/Lab5/distance_classification/Plots/Screenshot 2025-02-26 at 13.23.38.png
 /Users/lakshittyagi/Desktop/CSAI/MLPR/Lab5/distance_classification/Plots/Screenshot 2025-02-26 at 13.24.02.png
 /Users/lakshittyagi/Desktop/CSAI/MLPR/Lab5/distance_classification/Plots/Screenshot 2025-02-26 at 13.24.18.png
-/Users/lakshittyagi/Desktop/CSAI/MLPR/Lab5/distance_classification/Plots/Screenshot 2025-02-26 at 13.24.46.png
+Plots/Screenshot 2025-02-26 at 13.24.46.png
 
 ### Result
 
