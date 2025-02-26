@@ -29,3 +29,14 @@ Real-World Applications: Face recognition, recommender systems, medical diagnosi
 ### Conclusion
 
 This project highlights the effectiveness of distance-based classification for facial recognition tasks. By leveraging clustering and template matching, it demonstrates practical applications in real-world scenarios. Future improvements could include deep learning-based face embeddings for enhanced accuracy.
+
+### Plots
+
+/Users/lakshittyagi/Desktop/CSAI/MLPR/Lab5/distance_classification/Plots/Screenshot 2025-02-26 at 13.23.38.png
+/Users/lakshittyagi/Desktop/CSAI/MLPR/Lab5/distance_classification/Plots/Screenshot 2025-02-26 at 13.24.02.png
+/Users/lakshittyagi/Desktop/CSAI/MLPR/Lab5/distance_classification/Plots/Screenshot 2025-02-26 at 13.24.18.png
+/Users/lakshittyagi/Desktop/CSAI/MLPR/Lab5/distance_classification/Plots/Screenshot 2025-02-26 at 13.24.46.png
+
+### Result
+
+/Users/lakshittyagi/Desktop/CSAI/MLPR/Lab5/distance_classification/result_classification.png
