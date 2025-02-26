@@ -32,11 +32,11 @@ This project highlights the effectiveness of distance-based classification for f
 
 ### Plots
 
-/Users/lakshittyagi/Desktop/CSAI/MLPR/Lab5/distance_classification/Plots/Screenshot 2025-02-26 at 13.23.38.png
-/Users/lakshittyagi/Desktop/CSAI/MLPR/Lab5/distance_classification/Plots/Screenshot 2025-02-26 at 13.24.02.png
-/Users/lakshittyagi/Desktop/CSAI/MLPR/Lab5/distance_classification/Plots/Screenshot 2025-02-26 at 13.24.18.png
-Plots/Screenshot 2025-02-26 at 13.24.46.png
+![Face Detection Example](Plots/1.png)
+![Face Detection Example](Plots/2.png)
+![Face Detection Example](Plots/3.png)
+![Face Detection Example](Plots/4.png)
 
 ### Result
 
-/Users/lakshittyagi/Desktop/CSAI/MLPR/Lab5/distance_classification/result_classification.png
+![Face Detection Example](result_classification.png)
